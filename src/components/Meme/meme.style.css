@@ -62,9 +62,9 @@
   margin: 15px 0;
   padding: 0 5px;
   font-family: impact, sans-serif;
-  font-size: 2em;
+  font-size: 2rem;
   text-transform: uppercase;
-  color: white;
+  color: rgb(255, 255, 255);
   letter-spacing: 1px;
   text-shadow: 2px 2px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000,
     -2px 2px 0 #000, 0 2px 0 #000, 2px 0 0 #000, 0 -2px 0 #000, -2px 0 0 #000,
